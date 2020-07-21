@@ -1,0 +1,186 @@
+Script started on 2020-07-20 21:08:10+02:00 [TERM="st-256color" TTY="/dev/pts/4" COLUMNS="136" LINES="80"]
+[38;5;164m_[39m[38;5;164m_[39m[38;5;164m [39m[38;5;164m [39m[38;5;164m [39m[38;5;164m [39m[38;5;164m [39m[38;5;164m [39m[38;5;128m [39m[38;5;129m [39m[38;5;129m_[39m[38;5;129m_[39m[38;5;129m_[39m[38;5;129m_[39m[38;5;129m_[39m[38;5;129m_[39m[38;5;129m_[39m[38;5;129m [39m[38;5;93m_[39m[38;5;93m [39m[38;5;93m [39m[38;5;93m [39m[38;5;93m [39m[38;5;93m [39m[38;5;93m_[39m[38;5;93m [39m[38;5;93m [39m[38;5;93m [39m[38;5;63m [39m[38;5;63m [39m[38;5;63m_[39m[38;5;63m_[39m[38;5;63m_[39m[38;5;63m_[39m[38;5;63m [39m[38;5;63m_[39m[38;5;63m_[39m[38;5;63m_[39m[38;5;63m [39m[38;5;63m [39m[38;5;33m_[39m[38;5;33m_[39m[38;5;33m [39m[38;5;33m [39m[38;5;33m_[39m[38;5;33m_[39m[38;5;33m [39m[38;5;33m_[39m[38;5;33m_[39m[38;5;33m_[39m[38;5;39m_[39m[38;5;39m_[39m[38;5;39m [39m[38;5;39m [39m[38;5;39m [39m[38;5;39m_[39m[38;5;39m_[39m[38;5;39m_[39m[38;5;39m_[39m[38;5;38m_[39m[38;5;44m [39m[38;5;44m_[39m[38;5;44m_[39m[38;5;44m_[39m[38;5;44m [39m[38;5;44m [39m[38;5;44m[39m
+[38;5;164m\[39m[38;5;164m [39m[38;5;164m\[39m[38;5;164m [39m[38;5;164m [39m[38;5;128m [39m[38;5;129m [39m[38;5;129m [39m[38;5;129m [39m[38;5;129m/[39m[38;5;129m [39m[38;5;129m/[39m[38;5;129m [39m[38;5;129m_[39m[38;5;129m_[39m[38;5;93m_[39m[38;5;93m_[39m[38;5;93m|[39m[38;5;93m [39m[38;5;93m|[39m[38;5;93m [39m[38;5;93m [39m[38;5;93m [39m[38;5;93m|[39m[38;5;93m [39m[38;5;63m|[39m[38;5;63m [39m[38;5;63m [39m[38;5;63m [39m[38;5;63m/[39m[38;5;63m [39m[38;5;63m_[39m[38;5;63m_[39m[38;5;63m_[39m[38;5;63m/[39m[38;5;63m [39m[38;5;63m_[39m[38;5;33m [39m[38;5;33m\[39m[38;5;33m|[39m[38;5;33m [39m[38;5;33m [39m[38;5;33m\[39m[38;5;33m/[39m[38;5;33m [39m[38;5;33m [39m[38;5;33m|[39m[38;5;39m [39m[38;5;39m_[39m[38;5;39m_[39m[38;5;39m_[39m[38;5;39m_[39m[38;5;39m|[39m[38;5;39m [39m[38;5;39m|[39m[38;5;39m_[39m[38;5;38m [39m[38;5;44m [39m[38;5;44m [39m[38;5;44m_[39m[38;5;44m/[39m[38;5;44m [39m[38;5;44m_[39m[38;5;44m [39m[38;5;44m\[39m[38;5;44m [39m[38;5;44m[39m
+[38;5;164m [39m[38;5;164m\[39m[38;5;128m [39m[38;5;129m\[39m[38;5;129m [39m[38;5;129m/[39m[38;5;129m\[39m[38;5;129m [39m[38;5;129m/[39m[38;5;129m [39m[38;5;129m/[39m[38;5;129m|[39m[38;5;93m [39m[38;5;93m [39m[38;5;93m_[39m[38;5;93m|[39m[38;5;93m [39m[38;5;93m|[39m[38;5;93m [39m[38;5;93m|[39m[38;5;93m [39m[38;5;93m [39m[38;5;63m [39m[38;5;63m|[39m[38;5;63m [39m[38;5;63m|[39m[38;5;63m [39m[38;5;63m [39m[38;5;63m|[39m[38;5;63m [39m[38;5;63m|[39m[38;5;63m [39m[38;5;63m [39m[38;5;63m|[39m[38;5;33m [39m[38;5;33m|[39m[38;5;33m [39m[38;5;33m|[39m[38;5;33m [39m[38;5;33m|[39m[38;5;33m [39m[38;5;33m|[39m[38;5;33m\[39m[38;5;33m/[39m[38;5;39m|[39m[38;5;39m [39m[38;5;39m|[39m[38;5;39m [39m[38;5;39m [39m[38;5;39m_[39m[38;5;39m|[39m[38;5;39m [39m[38;5;39m [39m[38;5;38m [39m[38;5;44m [39m[38;5;44m [39m[38;5;44m|[39m[38;5;44m [39m[38;5;44m|[39m[38;5;44m|[39m[38;5;44m [39m[38;5;44m|[39m[38;5;44m [39m[38;5;44m|[39m[38;5;44m [39m[38;5;43m|[39m[38;5;49m[39m
+[38;5;129m [39m[38;5;129m [39m[38;5;129m\[39m[38;5;129m [39m[38;5;129mV[39m[38;5;129m [39m[38;5;129m [39m[38;5;129mV[39m[38;5;129m [39m[38;5;93m/[39m[38;5;93m [39m[38;5;93m|[39m[38;5;93m [39m[38;5;93m|[39m[38;5;93m_[39m[38;5;93m_[39m[38;5;93m_[39m[38;5;93m|[39m[38;5;93m [39m[38;5;63m|[39m[38;5;63m_[39m[38;5;63m_[39m[38;5;63m_[39m[38;5;63m|[39m[38;5;63m [39m[38;5;63m|[39m[38;5;63m_[39m[38;5;63m_[39m[38;5;63m|[39m[38;5;63m [39m[38;5;63m|[39m[38;5;33m_[39m[38;5;33m_[39m[38;5;33m|[39m[38;5;33m [39m[38;5;33m|[39m[38;5;33m_[39m[38;5;33m|[39m[38;5;33m [39m[38;5;33m|[39m[38;5;33m [39m[38;5;39m|[39m[38;5;39m [39m[38;5;39m [39m[38;5;39m|[39m[38;5;39m [39m[38;5;39m|[39m[38;5;39m [39m[38;5;39m|[39m[38;5;39m_[39m[38;5;38m_[39m[38;5;44m_[39m[38;5;44m [39m[38;5;44m [39m[38;5;44m [39m[38;5;44m [39m[38;5;44m|[39m[38;5;44m [39m[38;5;44m|[39m[38;5;44m|[39m[38;5;44m [39m[38;5;44m|[39m[38;5;43m_[39m[38;5;49m|[39m[38;5;49m [39m[38;5;49m|[39m[38;5;49m[39m
+[38;5;129m [39m[38;5;129m [39m[38;5;129m [39m[38;5;129m\[39m[38;5;129m_[39m[38;5;129m/[39m[38;5;93m\[39m[38;5;93m_[39m[38;5;93m/[39m[38;5;93m [39m[38;5;93m [39m[38;5;93m|[39m[38;5;93m_[39m[38;5;93m_[39m[38;5;93m_[39m[38;5;93m_[39m[38;5;63m_[39m[38;5;63m|[39m[38;5;63m_[39m[38;5;63m_[39m[38;5;63m_[39m[38;5;63m_[39m[38;5;63m_[39m[38;5;63m|[39m[38;5;63m_[39m[38;5;63m_[39m[38;5;63m_[39m[38;5;63m_[39m[38;5;33m_[39m[38;5;33m\[39m[38;5;33m_[39m[38;5;33m_[39m[38;5;33m_[39m[38;5;33m_[39m[38;5;33m\[39m[38;5;33m_[39m[38;5;33m_[39m[38;5;33m_[39m[38;5;39m/[39m[38;5;39m|[39m[38;5;39m_[39m[38;5;39m|[39m[38;5;39m [39m[38;5;39m [39m[38;5;39m|[39m[38;5;39m_[39m[38;5;39m|[39m[38;5;38m_[39m[38;5;44m_[39m[38;5;44m_[39m[38;5;44m_[39m[38;5;44m_[39m[38;5;44m|[39m[38;5;44m [39m[38;5;44m [39m[38;5;44m [39m[38;5;44m|[39m[38;5;44m_[39m[38;5;44m|[39m[38;5;43m [39m[38;5;49m\[39m[38;5;49m_[39m[38;5;49m_[39m[38;5;49m_[39m[38;5;49m/[39m[38;5;49m [39m[38;5;49m[39m
+[38;5;129m [39m[38;5;129m [39m[38;5;129m [39m[38;5;93m [39m[38;5;93m [39m[38;5;93m [39m[38;5;93m [39m[38;5;93m [39m[38;5;93m [39m[38;5;93m [39m[38;5;93m [39m[38;5;93m [39m[38;5;93m [39m[38;5;63m [39m[38;5;63m [39m[38;5;63m [39m[38;5;63m [39m[38;5;63m [39m[38;5;63m [39m[38;5;63m [39m[38;5;63m [39m[38;5;63m [39m[38;5;63m [39m[38;5;63m [39m[38;5;63m [39m[38;5;33m [39m[38;5;33m [39m[38;5;33m [39m[38;5;33m [39m[38;5;33m [39m[38;5;33m [39m[38;5;33m [39m[38;5;33m [39m[38;5;33m [39m[38;5;33m [39m[38;5;39m [39m[38;5;39m [39m[38;5;39m [39m[38;5;39m [39m[38;5;39m [39m[38;5;39m [39m[38;5;39m [39m[38;5;39m [39m[38;5;39m [39m[38;5;38m [39m[38;5;44m [39m[38;5;44m [39m[38;5;44m [39m[38;5;44m [39m[38;5;44m [39m[38;5;44m [39m[38;5;44m [39m[38;5;44m [39m[38;5;44m [39m[38;5;44m [39m[38;5;44m [39m[38;5;43m [39m[38;5;49m [39m[38;5;49m [39m[38;5;49m [39m[38;5;49m [39m[38;5;49m [39m[38;5;49m [39m[38;5;49m [39m[38;5;49m [39m[38;5;49m [39m[38;5;48m[39m
+[38;5;93m [39m[38;5;93m_[39m[38;5;93m_[39m[38;5;93m_[39m[38;5;93m_[39m[38;5;93m_[39m[38;5;93m [39m[38;5;93m_[39m[38;5;93m [39m[38;5;93m [39m[38;5;63m [39m[38;5;63m_[39m[38;5;63m [39m[38;5;63m_[39m[38;5;63m_[39m[38;5;63m_[39m[38;5;63m_[39m[38;5;63m_[39m[38;5;63m [39m[38;5;63m [39m[38;5;63m [39m[38;5;63m_[39m[38;5;33m_[39m[38;5;33m_[39m[38;5;33m_[39m[38;5;33m_[39m[38;5;33m [39m[38;5;33m_[39m[38;5;33m [39m[38;5;33m [39m[38;5;33m [39m[38;5;33m [39m[38;5;39m_[39m[38;5;39m_[39m[38;5;39m [39m[38;5;39m [39m[38;5;39m_[39m[38;5;39m_[39m[38;5;39m [39m[38;5;39m_[39m[38;5;39m_[39m[38;5;38m_[39m[38;5;44m [39m[38;5;44m_[39m[38;5;44m [39m[38;5;44m [39m[38;5;44m_[39m[38;5;44m_[39m[38;5;44m [39m[38;5;44m [39m[38;5;44m [39m[38;5;44m_[39m[38;5;44m_[39m[38;5;43m[39m
+[38;5;93m|[39m[38;5;93m_[39m[38;5;93m [39m[38;5;93m [39m[38;5;93m [39m[38;5;93m_[39m[38;5;93m|[39m[38;5;63m [39m[38;5;63m|[39m[38;5;63m [39m[38;5;63m|[39m[38;5;63m [39m[38;5;63m|[39m[38;5;63m [39m[38;5;63m_[39m[38;5;63m_[39m[38;5;63m_[39m[38;5;63m_[39m[38;5;63m|[39m[38;5;33m [39m[38;5;33m|[39m[38;5;33m [39m[38;5;33m [39m[38;5;33m_[39m[38;5;33m_[39m[38;5;33m_[39m[38;5;33m/[39m[38;5;33m [39m[38;5;33m\[39m[38;5;39m [39m[38;5;39m [39m[38;5;39m|[39m[38;5;39m [39m[38;5;39m [39m[38;5;39m\[39m[38;5;39m/[39m[38;5;39m [39m[38;5;39m [39m[38;5;38m|[39m[38;5;44m_[39m[38;5;44m [39m[38;5;44m_[39m[38;5;44m|[39m[38;5;44m [39m[38;5;44m|[39m[38;5;44m [39m[38;5;44m\[39m[38;5;44m [39m[38;5;44m\[39m[38;5;44m [39m[38;5;43m/[39m[38;5;49m [39m[38;5;49m/[39m[38;5;49m[39m
+[38;5;93m [39m[38;5;93m [39m[38;5;93m|[39m[38;5;93m [39m[38;5;63m|[39m[38;5;63m [39m[38;5;63m|[39m[38;5;63m [39m[38;5;63m|[39m[38;5;63m_[39m[38;5;63m|[39m[38;5;63m [39m[38;5;63m|[39m[38;5;63m [39m[38;5;63m [39m[38;5;63m_[39m[38;5;33m|[39m[38;5;33m [39m[38;5;33m [39m[38;5;33m [39m[38;5;33m|[39m[38;5;33m [39m[38;5;33m|[39m[38;5;33m_[39m[38;5;33m [39m[38;5;33m/[39m[38;5;39m [39m[38;5;39m_[39m[38;5;39m [39m[38;5;39m\[39m[38;5;39m [39m[38;5;39m|[39m[38;5;39m [39m[38;5;39m|[39m[38;5;39m\[39m[38;5;38m/[39m[38;5;44m|[39m[38;5;44m [39m[38;5;44m|[39m[38;5;44m|[39m[38;5;44m [39m[38;5;44m|[39m[38;5;44m|[39m[38;5;44m [39m[38;5;44m|[39m[38;5;44m [39m[38;5;44m [39m[38;5;43m\[39m[38;5;49m [39m[38;5;49mV[39m[38;5;49m [39m[38;5;49m/[39m[38;5;49m [39m[38;5;49m[39m
+[38;5;93m [39m[38;5;63m [39m[38;5;63m|[39m[38;5;63m [39m[38;5;63m|[39m[38;5;63m [39m[38;5;63m|[39m[38;5;63m [39m[38;5;63m [39m[38;5;63m_[39m[38;5;63m [39m[38;5;63m [39m[38;5;63m|[39m[38;5;33m [39m[38;5;33m|[39m[38;5;33m_[39m[38;5;33m_[39m[38;5;33m_[39m[38;5;33m [39m[38;5;33m [39m[38;5;33m|[39m[38;5;33m [39m[38;5;33m [39m[38;5;39m_[39m[38;5;39m/[39m[38;5;39m [39m[38;5;39m_[39m[38;5;39m_[39m[38;5;39m_[39m[38;5;39m [39m[38;5;39m\[39m[38;5;39m|[39m[38;5;38m [39m[38;5;44m|[39m[38;5;44m [39m[38;5;44m [39m[38;5;44m|[39m[38;5;44m [39m[38;5;44m|[39m[38;5;44m|[39m[38;5;44m [39m[38;5;44m|[39m[38;5;44m|[39m[38;5;44m [39m[38;5;43m|[39m[38;5;49m_[39m[38;5;49m_[39m[38;5;49m_[39m[38;5;49m|[39m[38;5;49m [39m[38;5;49m|[39m[38;5;49m [39m[38;5;49m [39m[38;5;49m[39m
+[38;5;63m [39m[38;5;63m [39m[38;5;63m|[39m[38;5;63m_[39m[38;5;63m|[39m[38;5;63m [39m[38;5;63m|[39m[38;5;63m_[39m[38;5;63m|[39m[38;5;63m [39m[38;5;33m|[39m[38;5;33m_[39m[38;5;33m|[39m[38;5;33m_[39m[38;5;33m_[39m[38;5;33m_[39m[38;5;33m_[39m[38;5;33m_[39m[38;5;33m|[39m[38;5;33m [39m[38;5;39m|[39m[38;5;39m_[39m[38;5;39m|[39m[38;5;39m/[39m[38;5;39m_[39m[38;5;39m/[39m[38;5;39m [39m[38;5;39m [39m[38;5;39m [39m[38;5;38m\[39m[38;5;44m_[39m[38;5;44m\[39m[38;5;44m_[39m[38;5;44m|[39m[38;5;44m [39m[38;5;44m [39m[38;5;44m|[39m[38;5;44m_[39m[38;5;44m|[39m[38;5;44m_[39m[38;5;44m_[39m[38;5;43m_[39m[38;5;49m|[39m[38;5;49m_[39m[38;5;49m_[39m[38;5;49m_[39m[38;5;49m_[39m[38;5;49m_[39m[38;5;49m|[39m[38;5;49m_[39m[38;5;49m|[39m[38;5;48m [39m[38;5;48m [39m[38;5;48m[39m
+[38;5;63m [39m[38;5;63m [39m[38;5;63m [39m[38;5;63m [39m[38;5;63m [39m[38;5;63m [39m[38;5;63m [39m[38;5;33m [39m[38;5;33m [39m[38;5;33m [39m[38;5;33m [39m[38;5;33m [39m[38;5;33m [39m[38;5;33m [39m[38;5;33m [39m[38;5;33m [39m[38;5;33m [39m[38;5;39m [39m[38;5;39m [39m[38;5;39m [39m[38;5;39m [39m[38;5;39m [39m[38;5;39m [39m[38;5;39m [39m[38;5;39m [39m[38;5;39m [39m[38;5;38m [39m[38;5;44m [39m[38;5;44m [39m[38;5;44m [39m[38;5;44m [39m[38;5;44m [39m[38;5;44m [39m[38;5;44m [39m[38;5;44m [39m[38;5;44m [39m[38;5;44m [39m[38;5;44m [39m[38;5;43m [39m[38;5;49m [39m[38;5;49m [39m[38;5;49m [39m[38;5;49m [39m[38;5;49m [39m[38;5;49m [39m[38;5;49m [39m[38;5;49m [39m[38;5;49m [39m[38;5;48m [39m[38;5;48m [39m[38;5;48m [39m[38;5;48m [39m[38;5;48m [39m[38;5;48m[39m
+[m[?25h[?1;5;2004l[0;33m(21:08:10) [m<darklime@archlaptop> [0;31m[~/Desktop/my_prog/runscript][m >> cmus    ^C
+[0;33m(21:08:17) [m<darklime@archlaptop> [0;31m[~/Desktop/my_prog/runscript][m >> ^C
+[0;33m(21:08:18) [m<darklime@archlaptop> [0;31m[~/Desktop/my_prog/runscript][m >> ls
+[0m[01;32minstall.sh[0m  [01;32mscript-runner[0m  [01;32mtest[0m  todo  typescript  [01;32muninstall.sh[0m
+[0;33m(21:08:18) [m<darklime@archlaptop> [0;31m[~/Desktop/my_prog/runscript][m >> clear
+[H[2J[0;33m(21:08:22) [m<darklime@archlaptop> [0;31m[~/Desktop/my_prog/runscript][m >> ls
+[0m[01;32minstall.sh[0m  [01;32mscript-runner[0m  [01;32mtest[0m  todo  typescript  [01;32muninstall.sh[0m
+[0;33m(21:08:25) [m<darklime@archlaptop> [0;31m[~/Desktop/my_prog/runscript][m >> ls ~/;=  .scr
+.screenlayout/  .script-runner/ 
+[0;33m(21:08:25) [m<darklime@archlaptop> [0;31m[~/Desktop/my_prog/runscript][m >> ls ~/.script-runner/
+barrier_fix_keyboard.sh  my_songs.sh              run.alias                ytplud.sh                
+brony_songs.sh           rerun.alias              test.sh                  
+[0;33m(21:08:25) [m<darklime@archlaptop> [0;31m[~/Desktop/my_prog/runscript][m >> ls ~/.script-runner/
+[0m[01;32mbarrier_fix_keyboard.sh[0m  [01;32mbrony_songs.sh[0m  [01;32mmy_songs.sh[0m  [01;32mrerun.alias[0m  [01;32mrun.alias[0m  [01;32mtest.sh[0m  [01;32mytplud.sh[0m
+[0;33m(21:09:00) [m<darklime@archlaptop> [0;31m[~/Desktop/my_prog/runscript][m >> rm test      ~:.  /.scr
+.screenlayout/  .script-runner/ 
+[0;33m(21:09:00) [m<darklime@archlaptop> [0;31m[~/Desktop/my_prog/runscript][m >> rm ~/.script-runner/test.sh 
+[0;33m(21:09:23) [m<darklime@archlaptop> [0;31m[~/Desktop/my_prog/runscript][m >> lsrm ~/.script-runner/test.sh [8Pls ~/.script-runner/
+[0m[01;32mbarrier_fix_keyboard.sh[0m  [01;32mbrony_songs.sh[0m  [01;32mmy_songs.sh[0m  [01;32mrerun.alias[0m  [01;32mrun.alias[0m  [01;32mytplud.sh[0m
+[0;33m(21:09:27) [m<darklime@archlaptop> [0;31m[~/Desktop/my_prog/runscript][m >> sudo bqsh    a  ashi  install.sh 
+[sudo] password for darklime: 
+enter your username
+darklime
+mkdir: cannot create directory '/home/darklime/.script-runner': File exists
+[0;33m(21:10:29) [m<darklime@archlaptop> [0;31m[~/Desktop/my_prog/runscript][m >> script
+script         script-runner  scriptlive     scriptreplay   
+[0;33m(21:10:29) [m<darklime@archlaptop> [0;31m[~/Desktop/my_prog/runscript][m >> script-runner -l
+barrier_fix_keyboard.sh  brony_songs.sh  my_songs.sh  rerun.alias  run.alias  test  ytplud.sh
+[0;33m(21:10:39) [m<darklime@archlaptop> [0;31m[~/Desktop/my_prog/runscript][m >> script
+script         script-runner  scriptlive     scriptreplay   
+[0;33m(21:10:39) [m<darklime@archlaptop> [0;31m[~/Desktop/my_prog/runscript][m >> script-runner less    -l
+barrier_fix_keyboard.sh  brony_songs.sh  my_songs.sh  rerun.alias  run.alias  test  ytplud.sh
+[0;33m(21:10:56) [m<darklime@archlaptop> [0;31m[~/Desktop/my_prog/runscript][m >> clearscript-runner -l                :q  clear
+[H[2J[0;33m(21:11:10) [m<darklime@archlaptop> [0;31m[~/Desktop/my_prog/runscript][m >> ls
+[0m[01;32minstall.sh[0m  [01;32mscript-runner[0m  [01;32mtest[0m  todo  typescript  [01;32muninstall.sh[0m
+[0;33m(21:11:12) [m<darklime@archlaptop> [0;31m[~/Desktop/my_prog/runscript][m >> f[K[0;33m(21:11:12) [m<darklime@archlaptop> [0;31m[~/Desktop/my_prog/runscript][m >> f[K[0;33m(21:11:12) [m<darklime@archlaptop> [0;31m[~/Desktop/my_prog/runscript][m >> f[K[0;33m(21:11:12) [m<darklime@archlaptop> [0;31m[~/Desktop/my_prog/runscript][m >> f srun   ript    cript
+script         script-runner  scriptlive     scriptreplay   
+[0;33m(21:11:12) [m<darklime@archlaptop> [0;31m[~/Desktop/my_prog/runscript][m >> script
+script         script-runner  scriptlive     scriptreplay   
+[0;33m(21:11:12) [m<darklime@archlaptop> [0;31m[~/Desktop/my_prog/runscript][m >> script-runner 
+install.sh     script-runner  test           todo           typescript     uninstall.sh   
+[0;33m(21:11:12) [m<darklime@archlaptop> [0;31m[~/Desktop/my_prog/runscript][m >> script-runner 
+install.sh     script-runner  test           todo           typescript     uninstall.sh   
+[0;33m(21:11:12) [m<darklime@archlaptop> [0;31m[~/Desktop/my_prog/runscript][m >> script-runner 
+install.sh     script-runner  test           todo           typescript     uninstall.sh   
+[0;33m(21:11:12) [m<darklime@archlaptop> [0;31m[~/Desktop/my_prog/runscript][m >> script-runner ~/.
+./               .bash_profile    .gnupg/          .minetest/       .pki/            .vim/            .xprofile
+../              .bashrc          .icewm/          .moc/            .python_history  .viminfo         .xserverrc
+.Xauthority      .cache/          .lesshst         .mozilla/        .screenlayout/   .viminfo.tmp     
+.bash_history    .config/         .lmmsrc.xml      .newsboat/       .script-runner/  .vimrc           
+.bash_logout     .fehbg           .local/          .npm/            .surf/           .xinitrc         
+[0;33m(21:11:12) [m<darklime@archlaptop> [0;31m[~/Desktop/my_prog/runscript][m >> script-runner ~/. 
+.Xauthority                                          .script-runner/
+.bash_history                                        .surf/
+.bash_logout                                         .vim/
+.bash_profile                                        .viminfo
+.bashrc                                              .viminfo.tmp
+.cache/                                              .vimrc
+.config/                                             .xinitrc
+.fehbg                                               .xprofile
+.gnupg/                                              .xserverrc
+.icewm/                                              Desktop/
+.lesshst                                             Documents/
+.lmmsrc.xml                                          Downloads/
+.local/                                              Music/
+.minetest/                                           Photos/
+.moc/                                                Using_semantics_to_prove_that_medium_is_premium.txt
+.mozilla/                                            VirtualBox/
+.newsboat/                                           VirtualBox VMs/
+.npm/                                                droopy/
+.pki/                                                fonts.conf
+.python_history                                      iso/
+.screenlayout/                                       scripts/
+[0;33m(21:11:12) [m<darklime@archlaptop> [0;31m[~/Desktop/my_prog/runscript][m >> script-runner ~/sc cripts/
+barrier_fix_keyboard.sh  my_songs.sh              run.alias                ytplud.sh                
+brony_songs.sh           rerun.alias              test.sh                  
+[0;33m(21:11:12) [m<darklime@archlaptop> [0;31m[~/Desktop/my_prog/runscript][m >> script-runner ~/scripts/test.sh 
+[0;33m(21:22:08) [m<darklime@archlaptop> [0;31m[~/Desktop/my_prog/runscript][m >> script-runner ~/scripts/test.sh [1@-[1@o[1@ 
+[0;33m(21:22:14) [m<darklime@archlaptop> [0;31m[~/Desktop/my_prog/runscript][m >> script-runner -o ~/scripts/test.sh  
+[0;33m(21:22:24) [m<darklime@archlaptop> [0;31m[~/Desktop/my_prog/runscript][m >> script-runner -o ~/scripts/test.sh    t.sh 
+[0;33m(21:22:26) [m<darklime@archlaptop> [0;31m[~/Desktop/my_prog/runscript][m >> script-runner -o ~/scripts/test.sh [1P[1P[1P[1Po[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1@l[1@e[1@s[1@s
+[?1049h[?1h=#!/bin/bash
+echo 'test working' && sleep 5
+[7m/home/darklime/scripts/test.sh (END)[27m[K[K [K::[Kqq[K[?1l>[?1049l[0;33m(21:22:38) [m<darklime@archlaptop> [0;31m[~/Desktop/my_prog/runscript][m >> 
+[0;33m(21:22:38) [m<darklime@archlaptop> [0;31m[~/Desktop/my_prog/runscript][m >> less ~/scripts/test.sh         le[1Ps[1P
+[0m[01;32mbarrier_fix_keyboard.sh[0m  [01;32mbrony_songs.sh[0m  [01;32mmy_songs.sh[0m  [01;32mrerun.alias[0m  [01;32mrun.alias[0m  [01;32mtest.sh[0m  [01;32mytplud.sh[0m
+[0;33m(21:22:47) [m<darklime@archlaptop> [0;31m[~/Desktop/my_prog/runscript][m >> ls ~/scripts/ess ~/scripts/test.sh [12@script-runner -o ~/scripts/test.sh [12Pless ~/scripts/test.sh [12@script-runner -o ~/scripts/test.sh 
+[0;33m(21:23:24) [m<darklime@archlaptop> [0;31m[~/Desktop/my_prog/runscript][m >> script-runner -o ~/scripts/test.sh 
+[0;33m(21:23:25) [m<darklime@archlaptop> [0;31m[~/Desktop/my_prog/runscript][m >> clear script-runner -o ~/scripts/test.sh         
+barrier_fix_keyboard.sh  my_songs.sh              run.alias                ytplud.sh                
+brony_songs.sh           rerun.alias              test.sh                  
+[0;33m(21:23:25) [m<darklime@archlaptop> [0;31m[~/Desktop/my_prog/runscript][m >> script-runner -o ~/scripts/
+barrier_fix_keyboard.sh  my_songs.sh              run.alias                ytplud.sh                
+brony_songs.sh           rerun.alias              test.sh                  
+[0;33m(21:23:25) [m<darklime@archlaptop> [0;31m[~/Desktop/my_prog/runscript][m >> script-runner -o ~/scripts/test.sh 
+install.sh     script-runner  test           todo           typescript     uninstall.sh   
+[0;33m(21:23:25) [m<darklime@archlaptop> [0;31m[~/Desktop/my_prog/runscript][m >> script-runner -o ~/scripts/test.sh 
+install.sh     script-runner  test           todo           typescript     uninstall.sh   
+[0;33m(21:23:25) [m<darklime@archlaptop> [0;31m[~/Desktop/my_prog/runscript][m >> script-runner -o ~/scripts/test.sh 
+install.sh     script-runner  test           todo           typescript     uninstall.sh   
+[0;33m(21:23:25) [m<darklime@archlaptop> [0;31m[~/Desktop/my_prog/runscript][m >> script-runner -o ~/scripts/test.sh 
+[0;33m(22:57:07) [m<darklime@archlaptop> [0;31m[~/Desktop/my_prog/runscript][m >> script-runner -o ~/scripts/test.sh                     h
+-r : runscript from file name.
+-l : list all script from the dicrtory. (deflaut dir is ~/.script-runner.)
+-h : list shows this message.
+[0;33m(22:57:19) [m<darklime@archlaptop> [0;31m[~/Desktop/my_prog/runscript][m >> script-runner -h                .scr   /script-runner 
+install.sh     script-runner  test           todo           typescript     uninstall.sh   
+[0;33m(22:57:19) [m<darklime@archlaptop> [0;31m[~/Desktop/my_prog/runscript][m >> ./script-runner [1@b[1@a[1@s[1@h[1@ ./script-runner -/ o ~/scripts/
+barrier_fix_keyboard.sh  my_songs.sh              run.alias                ytplud.sh                
+brony_songs.sh           rerun.alias              test.sh                  
+[0;33m(22:57:19) [m<darklime@archlaptop> [0;31m[~/Desktop/my_prog/runscript][m >> bash ./script-runner -o ~/scripts/test.sh 
+bash: %2: No such file or directory
+[0;33m(22:57:56) [m<darklime@archlaptop> [0;31m[~/Desktop/my_prog/runscript][m >> bash ./script-runner -o ~/scripts/test.sh  
+bash: %2: No such file or directory
+[0;33m(22:58:00) [m<darklime@archlaptop> [0;31m[~/Desktop/my_prog/runscript][m >> bash ./script-runner -o ~/scripts/test.sh
+bash: %2: No such file or directory
+[0;33m(22:58:20) [m<darklime@archlaptop> [0;31m[~/Desktop/my_prog/runscript][m >> bash ./script-runner -o ~/scripts/test.sh
+bash: %1: No such file or directory
+[0;33m(22:58:31) [m<darklime@archlaptop> [0;31m[~/Desktop/my_prog/runscript][m >> bash ./script-runner -o ~/scripts/test.sh
+test working
+^C
+[0;33m(22:58:53) [m<darklime@archlaptop> [0;31m[~/Desktop/my_prog/runscript][m >> bash ./script-runner -o ~/scripts/test.sh                   h
+-r : runscript from file name.
+-l : list all script from the dicrtory. (deflaut dir is ~/.script-runner.)
+-h : list shows this message.
+[0;33m(22:59:39) [m<darklime@archlaptop> [0;31m[~/Desktop/my_prog/runscript][m >> bash ./script-runner -h
+-r [script name] : runscript from file name.
+-l : list all script from the dicrtory. (deflaut dir is ~/.script-runner.)
+-o [full path of scritp] : run script from a diffrent directory
+-h : list shows this message.
+[0;33m(23:04:46) [m<darklime@archlaptop> [0;31m[~/Desktop/my_prog/runscript][m >> bash ./script-runner -h
+-r [script name] :	runscript from file name.
+-l :	list all script from the dicrtory. (deflaut dir is ~/.script-runner.)
+-o [full path of scritp] :	run script from a diffrent directory
+-h :	list shows this message.
+[0;33m(23:05:36) [m<darklime@archlaptop> [0;31m[~/Desktop/my_prog/runscript][m >> bash ./script-runner -h
+-r [script name] : runscript from file name.
+-l : list all script from the dicrtory. (deflaut dir is ~/.script-runner.)
+-o [full path of scritp] : run script from a diffrent directory
+-h : list shows this message.
+[0;33m(23:06:00) [m<darklime@archlaptop> [0;31m[~/Desktop/my_prog/runscript][m >> s bqsh   ash ~/; .scr
+.screenlayout/  .script-runner/ 
+[0;33m(23:06:00) [m<darklime@archlaptop> [0;31m[~/Desktop/my_prog/runscript][m >> bash ~/.script-runner/
+barrier_fix_keyboard.sh  my_songs.sh              run.alias                ytplud.sh                
+brony_songs.sh           rerun.alias              test                     
+[0;33m(23:06:00) [m<darklime@archlaptop> [0;31m[~/Desktop/my_prog/runscript][m >> bash ~/.script-runner/bqrr   arrier_fix_keyboard.sh 
+[0;33m(23:07:10) [m<darklime@archlaptop> [0;31m[~/Desktop/my_prog/runscript][m >> aa  bash ~/.script-runner/barrier_fix_keyboard.sh [23P./script-runner -ho ~/scripts/test.sh [26Pscript-runner -ho ~/scripts/test.sh 
+[0;33m(23:07:23) [m<darklime@archlaptop> [0;31m[~/Desktop/my_prog/runscript][m >> script-runner -o ~/scripts/test.sh 
+[0;33m(23:07:24) [m<darklime@archlaptop> [0;31m[~/Desktop/my_prog/runscript][m >> script-runner -o ~/scripts/test.sh 
+[0;33m(23:07:28) [m<darklime@archlaptop> [0;31m[~/Desktop/my_prog/runscript][m >> script-runner -o ~/scripts/test.sh [Kscript-runner -o ~/scripts/test.sh [11@bash ~/.script-runner/barrier_fix_keyboard.sh [23P./script-runner -h~/.script-runner/barrier_fix_keyboard.sh [23P./script-runner -h o ~/.scree     
+./               .bash_profile    .gnupg/          .minetest/       .pki/            .vim/            .xprofile
+../              .bashrc          .icewm/          .moc/            .python_history  .viminfo         .xserverrc
+.Xauthority      .cache/          .lesshst         .mozilla/        .screenlayout/   .viminfo.tmp     
+.bash_history    .config/         .lmmsrc.xml      .newsboat/       .script-runner/  .vimrc           
+.bash_logout     .fehbg           .local/          .npm/            .surf/           .xinitrc         
+[0;33m(23:07:28) [m<darklime@archlaptop> [0;31m[~/Desktop/my_prog/runscript][m >> bash ./script-runner -o ~/. sre  cripts/
+barrier_fix_keyboard.sh  my_songs.sh              run.alias                ytplud.sh                
+brony_songs.sh           rerun.alias              test.sh                  
+[0;33m(23:07:28) [m<darklime@archlaptop> [0;31m[~/Desktop/my_prog/runscript][m >> bash ./script-runner -o ~/scripts/ttes   est.sh 
+test working
+^C
+[0;33m(23:07:55) [m<darklime@archlaptop> [0;31m[~/Desktop/my_prog/runscript][m >> sudo bash install.sh 
+[sudo] password for darklime: 
+enter your username
+darklime
+mkdir: cannot create directory '/home/darklime/.script-runner': File exists
+[0;33m(23:08:24) [m<darklime@archlaptop> [0;31m[~/Desktop/my_prog/runscript][m >> sri  criptè[K-runner -h
+-r [script name] : runscript from file name.
+-l : list all script from the dicrtory. (deflaut dir is ~/.script-runner.)
+-o [full path of scritp] : run script from a diffrent directory
+-h : list shows this message.
+[0;33m(23:08:36) [m<darklime@archlaptop> [0;31m[~/Desktop/my_prog/runscript][m >> script-runner -h  test
+[0;33m(23:08:40) [m<darklime@archlaptop> [0;31m[~/Desktop/my_prog/runs
