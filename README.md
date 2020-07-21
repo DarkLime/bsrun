@@ -1,4 +1,4 @@
-# Script-runner
+# bsrun
 Run bash scripts from anywere in the terminal.
 
 # Installation
