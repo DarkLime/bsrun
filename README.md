@@ -9,7 +9,7 @@ The scripts default directory in ~/.bsrun
 to verify the proper installation run the command 'bsrun -r test'
 
 # Run
-bsrun-r [name of the file ]
+bsrun -e [name of the file ]
 
 # Uninstall
 before you run the uninstall script if you want to remove the default script dir uncomment "rm -r /home/$usr/.bsrun".
