@@ -1,11 +1,19 @@
 #!/bin/bash 
-scriptdir=~/.bsrun
+scriptdir=~/.bsrun # script directory
+L=1 #repeat variable
 	case $1 in
-		-r) exec bash $scriptdir/$2 ;;
+		-e) exec bash $scriptdir/$2 ;;
 		-l) exec ls $scriptdir/ ;;
 		-o) exec bash $2 ;;
-		-h)	echo "-r [script name] : runscript from file name."
+		-h)	echo "-e [script] : run script from file name."
 			echo "-l : list all script from the dicrtory. (deflaut dir is ~/.script-runner.)"
 			echo "-o [full path of scritp] : run script from a diffrent directory"
-			echo "-h : list shows this message." ;;
+			echo "-h : list shows this message."
+			echo "-r [number] [script] : runs script x numbers of time given." ;;
+		-r) until [ $L -gt $2 ]
+				do 
+					exec bash $scriptdir/$3 &
+					L=$((L+1))
+					sleep 0.001
+				done 
 	esac
