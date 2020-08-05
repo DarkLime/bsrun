@@ -6,7 +6,7 @@ Run the command 'sudo bash install.sh' then it will ask for your username
 The scripts default directory in ~/.bsrun
 
 # Verify
-to verify the proper installation run the command 'bsrun -r test'
+to verify the proper installation run the command 'bsrun -e test'
 
 # Run
 bsrun -e [name of the file]
