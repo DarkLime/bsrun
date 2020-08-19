@@ -6,7 +6,7 @@ L=1 #repeat variable
 		-l) exec ls $scriptdir/ ;;
 		-o) exec bash $2 ${@:3} ; shift 2 ;;
 		-h)	echo "-e [script] : run script from file name."
-			echo "-l : list all script from the dicrtory. (deflaut dir is ~/.script-runner.)"
+			echo "-l : list all script from the dicrtory. (deflaut dir is ~/.bsrun.)"
 			echo "-o [full path of scritp] : run script from a diffrent directory"
 			echo "-h : list shows this message."
 			echo "-r [number] [script] : runs script x numbers of time given." ;;
