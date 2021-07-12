@@ -11,6 +11,9 @@ to verify the proper installation run the command 'bsrun -e test'
 # Run
 bsrun -e [name of the file]
 
+# Help
+bsrun -h
+
 # Uninstall
 before you run the uninstall script if you want to remove the default script dir uncomment "rm -r /home/$usr/.bsrun".
 
